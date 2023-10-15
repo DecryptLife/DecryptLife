@@ -22,7 +22,16 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg
 
+      - run: git status
 
+      # Push the changes
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.README_TOKEN }}
+          branch: main
+          force: true
+      
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v2.6.0
         with:
