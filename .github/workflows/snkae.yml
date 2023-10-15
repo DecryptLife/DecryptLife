@@ -22,8 +22,6 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg
 
-      - run: git status
-
       # Push the changes
       - name: Push changes
         uses: ad-m/github-push-action@master
