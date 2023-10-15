@@ -102,6 +102,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/DecryptLife/DecryptLife/output/snake.svg" alt="Snake animation" />
-
+![snake gif](https://github.com/DecryptLife/DecryptLife/blob/output/github-contribution-grid-snake.gif)
 ###
