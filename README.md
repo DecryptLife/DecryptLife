@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="150" style="border-radius: 50%;" src="./headshot.jpg"  />
 </div>
 
 ###
@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Benson Thomas, a passionate computer science enthusiast<br><br>- 🔭 I’m a student, doing my Masters in Computer Science at Rice University<br>- 📚 I'm currently learning NextJS. Lately I have been hearing a lot about TypeScript and NextJS and I feel confident with React so I am eager to develop or update my React projects to TpeScript/NextJS projects. I am also interested in learning about cloud service and I'm mainly focusing on AWS right now. <br>- ⚡ In my free time I love learning new technologies, creating new projects and practicing coding</p>
+<p align="left">I'm Benson Thomas, a passionate computer science enthusiast<br><br>- 🔭 I’m a student, doing my Masters in Computer Science at Rice University<br>- 📚 I'm currently learning NextJS. Lately, I have been hearing a lot about TypeScript and NextJS and I feel confident with React so I am eager to develop or update my React projects to TpeScript/NextJS projects. I am also interested in learning about cloud service and I'm mainly focusing on AWS right now. <br>- ⚡ In my free time I love learning new technologies, creating new projects, and practicing coding</p>
 
 ###
 
@@ -96,7 +96,17 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DecryptLife&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+<div>
+
+###
+
+<div align="center" style="margin-top: 20px;">  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DecryptLife&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=DecryptLife&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
