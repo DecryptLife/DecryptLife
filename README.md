@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Benson Thomas, a passionate computer science enthusiast<br><br>- 🔭 I’m a student, doing my Masters in Computer Science at Rice University<br>- 📚 I'm currently learning NextJS. Lately, I have been hearing a lot about TypeScript and NextJS and I feel confident with React so I am eager to develop or update my React projects to TpeScript/NextJS projects. I am also interested in learning about cloud service and I'm mainly focusing on AWS right now. <br>- ⚡ In my free time I love learning new technologies, creating new projects, and practicing coding</p>
+<p align="left">I'm Benson Thomas, a passionate computer science enthusiast<br><br>- 🔭   I'm currently learning NextJS. Lately, I have been hearing a lot about TypeScript and NextJS and I feel confident with React so I am eager to develop or update my React projects to TpeScript/NextJS projects. I am also interested in strengthening my knowledge with cloud service and I'm mainly focusing on AWS right now. <br>- ⚡ In my free time I love learning new technologies, creating new projects, and practicing coding</p>
 
 ###
 
